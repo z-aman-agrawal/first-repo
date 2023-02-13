@@ -10,6 +10,6 @@ int main () {
         }
     }
 
-    cout << res << endl;
+    cout << "Sum : " << res << endl;
     return 0;
 }
